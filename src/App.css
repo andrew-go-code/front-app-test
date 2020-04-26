@@ -1,5 +1,14 @@
+body {
+  background-image: url("/bg2.png");
+}
+
 .App {
-  text-align: center;
+  margin: 50px;
+  text-align: left;
+}
+
+.AppBar {
+  background-image: url("/bg2.png");
 }
 
 .App-logo {
